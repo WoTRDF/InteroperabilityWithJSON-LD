@@ -1,0 +1,25 @@
+{
+	"@context": {
+		"cd": " http://lab.wot-rdf.org/CrossDomain#",
+		"schema": "https://schema.org/",
+		"mexperf": "http://mex.aksw.org/mex-perf#",
+
+		"item": "cd:hasDevice",
+		"status": "cd:hasOperationState",
+		"body": "cd:hasOutput",
+		"unit": "cd:concerns",
+		"location": "cd:hasLocation",
+		"commmand": "cd:hasCommand",
+		"metadata": "cd:canHaveMetadata",
+		"accuracy": "mexperf:accuracy",
+		"contains": "cd:contains",
+		"sensor": "cd:hasSensor",
+		"actuator": "cd:hasActuator",
+		"state": "cd:hasState",
+		"id": "cd:hasId",
+		"type": "@type",
+		"value": "@value",
+
+		"URL": "schema:URL"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"@context": [
+		"http://lab.wot-rdf.org/jsonld/context/GenericIoTContext",
+		"http://lab.wot-rdf.org/jsonld/context/SmartHomeContext",
+		"http://lab.wot-rdf.org/jsonld/context/NetatmoContext"
+	]
+}

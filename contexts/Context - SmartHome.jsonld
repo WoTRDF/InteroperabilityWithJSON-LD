@@ -1,0 +1,13 @@
+{
+	"@context": {
+		"saref": "http://ontology.tno.nl/saref#",
+		"dogont": "http://ontology.tno.nl/saref#",
+		"biopax": "http://www.biopax.org/release/biopax-level3.owl#",
+
+		"floor": "dogont:hasFloor",
+		"temperature": {
+			"@id": " biopax:temperature",
+			"@type": "saref:Temperature"
+		}
+	}
+}

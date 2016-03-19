@@ -1,0 +1,8 @@
+{
+	"@context": {
+		"schema": "http://schema.org/",
+		"m2m": "http://www.onem2m.org/ontology/Base_Ontology/",
+		"module_name": "m2m:isPartOf",
+		"rf_status": "netatmo:radioStatus"
+	}
+}
