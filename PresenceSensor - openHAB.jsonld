@@ -1,0 +1,10 @@
+{
+	"@context": "http://lab.wot-rdf.org/jsonld/context/building",
+	"@id": "http://lab.wot-rdf.org/jsonld/corridor1/presencesensor1/",
+	"item": {
+		"type": "NumberItem",
+		"name": "PresenceSensor",
+		"state": "0",
+		"link": "/"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"type": "DoorAcutator",
+	"id": "dooracuator1",
+	"commmand": {
+		"value": "open",
+		"type": "Command"
+	}
+}

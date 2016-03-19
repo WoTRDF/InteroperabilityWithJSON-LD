@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+   <type>NumberItem</type>
+   <name>PresenceSensor</name>
+   <state>0</state>
+   <link>/</link>
+</item>

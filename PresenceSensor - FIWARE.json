@@ -1,0 +1,8 @@
+{
+	"type": "PresenceSensor",
+	"id": "presencesensor1",
+	"state": {
+		"value": "1",
+		"type": "State"
+	}
+}

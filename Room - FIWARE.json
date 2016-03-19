@@ -1,0 +1,26 @@
+{
+	"type": "Room",
+	"id": "room1",
+	"location": {
+		"value": "45.2098, 5.7945",
+		"type": "Point",
+		"metadata": {
+			"accuracy": {
+				"type": null,
+				"value": 0.0001
+			},
+			"contains": {
+				"value": "/door1",
+				"type": "URL"
+			},
+			"acutator": {
+				"value": "/dooractuator1",
+				"type": "URL"
+			},
+			"sensor": {
+				"value": "/presencesensor1",
+				"type": "URL"
+			}
+		}
+	}
+}

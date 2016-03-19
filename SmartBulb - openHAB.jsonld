@@ -1,0 +1,10 @@
+{
+	"@context": "http://lab.wot-rdf.org/jsonld/context/building",
+	"@id": "http://lab.wot-rdf.org/jsonld/corridor1/smartbulb1/",
+	"item": {
+		"type": "SwitchItem",
+		"name": "SmartBulb",
+		"state": "Off",
+		"link": "/"
+	}
+}

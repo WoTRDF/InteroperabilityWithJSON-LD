@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+   <item>
+      <type>NumberItem</type>
+      <name>PresenceSensor</name>
+      <state>0</state>
+      <link>/presencesensor1</link>
+   </item>
+   <item>
+      <type>SwitchItem</type>
+      <name>SmartBulb</name>
+      <state>Off</state>
+      <link>/smartbulb1</link>
+   </item>
+</items>

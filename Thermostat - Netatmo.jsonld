@@ -1,0 +1,12 @@
+{
+	"@context": "http://lab.wot-rdf.org/jsonld/context/ building",
+	"@id": "http://lab.wot-rdf.org/jsonld/thermostat1",
+
+	"status": "ok",
+	"body": {
+		"temperature": 21.7,
+		"unit": "Celsius"
+	},
+	"module_name": "Inside",
+	"rf_status": 161
+}

@@ -1,0 +1,9 @@
+{
+	"status": "ok",
+	"body": {
+		"temperature": 21.7,
+		"unit": "Celsius"
+	},
+	"module_name": "Inside",
+	"rf_status": 161
+}

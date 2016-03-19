@@ -1,0 +1,18 @@
+{
+	"@context": "http://lab.wot-rdf.org/jsonld/context/building",
+	"@id": "http://lab.wot-rdf.org/jsonld/corridor1/",
+
+	"items": {
+		"item": [{
+			"type": "NumberItem",
+			"name": "PresenceSensor",
+			"state": "0",
+			"link": "/presencesensor1"
+		}, {
+			"type": "SwitchItem",
+			"name": "SmartBulb",
+			"state": "Off",
+			"link": "/smartbulb1"
+		}]
+	}
+}

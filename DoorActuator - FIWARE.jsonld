@@ -1,0 +1,11 @@
+{
+	"@context": "http://lab.wot-rdf.org/jsonld/context/building",
+	"@id": "http://lab.wot-rdf.org/jsonld/room1/dooractuator1",
+
+	"type": "DoorAcutator",
+	"id": "dooracuator1",
+	"commmand": {
+		"value": "open",
+		"type": "Command"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"type": "Door",
+	"id": "door1",
+	"state": {
+		"value": "closed",
+		"type": null,
+		"metadata": {
+			"acutator": {
+				"value": "../dooractuator1",
+				"type": "URL"
+			}
+		}
+	}
+}

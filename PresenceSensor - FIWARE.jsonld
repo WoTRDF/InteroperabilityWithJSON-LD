@@ -1,0 +1,11 @@
+{
+	"@context": "http://lab.wot-rdf.org/jsonld/context/building",
+	"@id": "http://lab.wot-rdf.org/jsonld/room1/presencesensor1",
+
+	"type": "PresenceSensor",
+	"id": "presencesensor1",
+	"state": {
+		"value": "1",
+		"type": "State"
+	}
+}

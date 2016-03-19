@@ -1,0 +1,17 @@
+{
+	"@context": "http://lab.wot-rdf.org/jsonld/context/building",
+	"@id": "http://lab.wot-rdf.org/jsonld/room1/door1",
+
+	"type": "Door",
+	"id": "door1",
+	"state": {
+		"value": "closed",
+		"type": null,
+		"metadata": {
+			"acutator": {
+				"value": "../dooractuator1",
+				"type": "URL"
+			}
+		}
+	}
+}
